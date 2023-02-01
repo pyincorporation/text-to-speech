@@ -1,0 +1,21 @@
+-----------pyincorporation-------------
+
+______TO UNIX MACHINE_______
+1) Ensure internet access
+2) Install speech library requirements
+    sudo apt install libespeak-dev
+    sudo apt install alsa-utils
+3) Install necessary python package for speech
+    pip install -r requirements.text
+
+______TO OTHER OS MACHINE______
+-----necessary speech libraries the machine should have-----
+    -libespeak
+    -alsa-utils
+
+
+__________More projects available for free in python_________________
+
+            #### https://github.com/pyincorporation
+
+
